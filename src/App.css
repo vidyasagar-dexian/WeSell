@@ -1,0 +1,63 @@
+body {
+    background-color: rgba(84, 113, 130, 0.388);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Auth-form {
+    width: 420px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.camera{
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgba(46, 46, 51, 0.797);
+    border-radius: 50%;
+    margin: auto;
+}
+
+.cameraEffect{
+    opacity: 0;
+    transition: all 100ms ease;
+}
+
+.video{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+img{
+    object-fit: cover;
+}
+
+.Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(34, 34, 34);
+    font-weight: 700;
+}
+
+label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+}

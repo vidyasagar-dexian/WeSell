@@ -1,0 +1,49 @@
+{
+  "users": {
+    "vidyasagar4069": {
+      "fullName": "vidyasagar",
+      "dob": "2024-06-27",
+      "gender": "male",
+      "address": "16 th street",
+      "email": "vidyasagar4069@gmail.com",
+      "twitterId": "asdfdvfd",
+      "bio": "sadfsad",
+      "password": "123"
+    },
+    "ramu143": {
+      "fullName": "ramu",
+      "dob": "2024-06-28",
+      "gender": "male",
+      "address": "216th street",
+      "email": "ramu143@gmail.com",
+      "twitterId": "ramu145",
+      "bio": "sadfasd",
+      "password": "123"
+    },
+    "james": {
+      "password": "james",
+      "fullName": "james",
+      "email": "james"
+    },
+    "jamess": {
+      "password": "jamess",
+      "fullName": "jamess",
+      "email": "jamess"
+    },
+    "vidyas": {
+      "password": "vidyas",
+      "fullName": "vidyas",
+      "email": "vidyas"
+    },
+    "sagars": {
+      "password": "sagars",
+      "fullName": "sagars",
+      "email": "sagars"
+    },
+    "janeman": {
+      "password": "janeman",
+      "fullName": "janeman",
+      "email": "janeman"
+    }
+  }
+}
